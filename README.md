@@ -54,15 +54,5 @@ Before you begin, ensure you have met the following requirements:
 
 ##
 
-1. Clone this repository to your local machine.
 
-   ```bash
-   git clone https://github.com/harshitjha2001/gridtemp](https://github.com/harshitjha2001/Attendo
-   cd Attendo
-2. Configure the Firebase service account key and URLs in your code.
-3. Ensure you have the required background image, face encoding data, mode images, and Firebase storage/database set up.
-4. Run the code:
-Run the application:
-
-   ```bash
    python app.py
